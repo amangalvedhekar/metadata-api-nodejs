@@ -1,22 +1,37 @@
 module.exports = {
   "1": {
-    "name": "Chunky Monkey",
-    "birthday": "10-18"
+    "type": "Super Platinum",
+    "name": "Five Weeks Early access",
+    "starterPack": [{
+      "token-id": [1,2,3]
+    }]
   },
   "2": {
-    "name": "Flerp Derp",
-    "birthday": "01-08"
+    "type": "Platinum",
+    "name": "Four Weeks Early access",
+    "starterPack": [{
+      "token-id": [13,14,15]
+    }]
   },
   "3": {
-    "name": "Buttle McFuddle",
-    "birthday": "01-22"
+    "type": "Gold",
+    "name": "Three Weeks Early access",
+    "starterPack": [{
+      "token-id": [4,5,6]
+    }]
   },
   "4": {
-    "name": "Quiero Pancakes",
-    "birthday": "03-04"
+    "type": "Silver",
+    "name": "Two Weeks Early access",
+    "starterPack": [{
+      "token-id": [7,8,9]
+    }]
   },
   "5": {
-    "name": "Guino the Penguin",
-    "birthday": "03-09"
+    "type": "Bronze",
+    "name": "One Weeks Early access",
+    "starterPack": [{
+      "token-id": [10,11,12]
+    }]
   }
 }
